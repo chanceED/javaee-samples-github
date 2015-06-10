@@ -1,5 +1,5 @@
  bonjour ffjA simple Java EE 7 Sample BONJOUR
-BONJOUR DEVELOPPE 1=========================vidfdfd fkdfdkfdkfkdddf dfje susisdkv
+BONJOUR DEVELOPPE 1=========================vidfdfd fkdfdkfdkfkdddf dfje susisdkvbonjour
 This is a trivial Java EE 7 sample.
 
 . Download WildFly 8.2 from
