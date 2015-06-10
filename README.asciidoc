@@ -1,4 +1,4 @@
- bonjour ffjA simple Java EE 7 Sample
+ bonjour ffjA simple Java EE 7 Sample BONJOUR
 BONJOUR DEVELOPPE 1=========================vidfdfd fkdfdkfdkfkdddf dfje susisdkv
 This is a trivial Java EE 7 sample.
 
